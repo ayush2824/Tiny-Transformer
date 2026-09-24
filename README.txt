@@ -59,11 +59,11 @@ punctuation, and character patterns.
 
 Example:
 
-Epoch 2500:
+Iterations 2500:
 Train Loss: 1.7530
 Validation Loss: 1.9441
 
-Epoch 3000:
+Iterations 3000:
 Train Loss: 1.6077
 Validation Loss: 1.8218
 
