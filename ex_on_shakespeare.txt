@@ -1,0 +1,87 @@
+loss=250.8766 and val loss=250.4708
+
+----:val:----
+'Valance of Venice gold in needlework,
+Pewter and brass and all things that belong
+To house or housekeeping: then, at my farm
+I have a hundred milch-kine to the pail,
+Sixscore fat oxen standing in my stalls,
+And all things answerable to this portion.'
+
+--------: OUPUT :----
+ 'yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy'
+_________________________________________
+
+Epoch 2500: train loss=1.7530 and val loss=1.9441
+
+----:val:---- 
+,--
+And he shall be Vincentio of Pisa;
+And make assurance here in Padua
+Of greater sums than I have promised.
+So shall you quietly enjoy your hope,
+And marry sweet Bianca with consent.
+
+LUCENTIO:
+Were it not that my fellow-school-master
+Doth watch Bianca's
+
+--------: OUPUT :----
+if those you.
+
+KING EDWARD IV:
+ISABEL:
+And the see the sire me be in stand sounder ese shall stis stereate,
+And be the be so she will he shall begive to here shall me peak of the their seest
+Thim that of the is of the be dis and mese so him him.
+
+SAUREN MARD:
+When mothe stell blost me so ther such to your him thy the more my stand the
+The withe sher she see premine he shereal I his do dom there she
+To proft boy behou hem thereet so be say this her some:
+The being he profore hen the sing the sle
+
+___________________________________
+Epoch +500: train loss=1.6077 and val loss=1.8218
+
+----:val:---- 
+GONZALO:
+Had I plantation of this isle, my lord,--
+
+ANTONIO:
+He'ld sow't with nettle-seed.
+
+SEBASTIAN:
+Or docks, or mallows.
+
+GONZALO:
+And were the king on't, what would I do?
+
+SEBASTIAN:
+'Scape being drunk for want of wine.
+
+GONZALO:
+I' the commonwealth t
+
+-------: OUTPUT :--------
+herefors, sir,
+And of that him bashere tood, the pack to the part,
+And of the of shall have man this forset.
+
+CORDIOLANUS:
+The shall the our the man this back'd by the batter
+And that have the the saitore.
+May have the against the shals that bears and again,
+And and heart, and sportheir the stable.
+
+CORIOLANUS:
+And Mark!
+
+MERCALUS:
+Sinst for the be a says, take again the with the ward?
+
+MENENIUS:
+God that to hast than here the way when the made shall hear with.
+
+CORIOLANUS:
+And Seat the will th
