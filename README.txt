@@ -55,7 +55,7 @@ The model initially produced repetitive/random characters, but with training
 it gradually learned Shakespeare-like vocabulary, dialogue structure,
 punctuation, and character patterns.
 
-## Training Results
+## Training Results -> (experiment.txt)
 
 Example:
 
